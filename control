@@ -1,0 +1,9 @@
+Package: com.yourname.wxkbtoolbartweak
+Name: 微信输入法工具栏+键盘美化(新版)
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Description: 全新实现：功能栏自定义按钮条 + 按键圆角/边框/阴影/背景美化（不含任何激活授权）
+Depends: ellekit
+Maintainer: you
+Author: you
+Section: Tweaks
